@@ -57,7 +57,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'https://your-frontend-domain.vercel.app',  # Replace with your actual Vercel domain
+    'https://inventory-frontend-1lo2rztri-giteshwaris-projects.vercel.app',
 ]
 
 
